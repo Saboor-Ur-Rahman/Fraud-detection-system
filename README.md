@@ -1,4 +1,4 @@
-# Fraud-detection-system
+# Fraud Detection System for my FYP
 Detecting Fraud Based On Unique Customer Behavior
 
 Fraud detection is a critical challenge in financial transactions, requiring a balance between identifying fraudulent activities and minimizing false positives for genuine customers. This project implements a hybrid fraud detection system that combines traditional rule-based methods with machine learning techniques to identify fraudulent transactions effectively.
